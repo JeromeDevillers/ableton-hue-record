@@ -1,0 +1,31 @@
+{
+  "name": "ableton-hue-record",
+  "version": "1.0.0",
+  "description": "Set Philips Hue color to red when Ableton recording.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeromeDevillers/ableton-hue-record.git"
+  },
+  "keywords": [
+    "ableton",
+    "philips",
+    "hue",
+    "hue",
+    "bulb",
+    "recording"
+  ],
+  "author": "Devillers Jerome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeromeDevillers/ableton-hue-record/issues"
+  },
+  "homepage": "https://github.com/JeromeDevillers/ableton-hue-record#readme",
+  "devDependencies": {
+    "dotenv": "^9.0.2",
+    "midi": "^1.0.4"
+  }
+}
