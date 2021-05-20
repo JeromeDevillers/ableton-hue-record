@@ -2,6 +2,13 @@ const dotenv = require('dotenv');
 const midi = require('midi');
 dotenv.config();
 
+// Connect to Philips Hue
+// Connect MIDI
+
+// 1. Detect `press` record.
+// 2. Turn red light on
+// 3. Detect end record.
+// 4. Turn red light off
 
 console.log(`Your Hue port is ${process.env.HUE_PORT}`);
 
