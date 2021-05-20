@@ -16,6 +16,13 @@ Set Philips Hue color to red when Ableton recording.
 ## 📝 To Do
 [TO DO]
 
+## Dependencies
+| Name | URL |
+|-------|-----|
+| dotenv | https://www.npmjs.com/package/dotenv |  
+| midi | https://www.npmjs.com/package/midi |
+
+
 ## 👥 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
