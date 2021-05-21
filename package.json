@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/JeromeDevillers/ableton-hue-record#readme",
   "devDependencies": {
-    "dotenv": "^9.0.2",
-    "midi": "^1.0.4"
+    "ableton-push2": "0.0.6",
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2"
   }
 }
