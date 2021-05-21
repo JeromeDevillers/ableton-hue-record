@@ -5,11 +5,14 @@ Set Philips Hue color to red when Ableton recording.
 [TO DO]
 
 ## 🛠️ Installation
-[TO DO]
 
-## 🚀 Usage
+```
+git clone git@github.com:JeromeDevillers/ableton-hue-record.git
+cd ableton-hue-record
+npm i
+node index.js
+```
 
-[TO DO]
 ## 🔨 Configuration
 Copy the `.env.example` and rename it `.env`
 ```
@@ -31,6 +34,9 @@ You will find the IP on `internalipaddress` param.
 | URL| /api |
 | Body | {"devicetype":"my_hue_app#yourname"} |
 | Method | Post |
+
+
+
 
 ## Dependencies
 | Name | URL |
