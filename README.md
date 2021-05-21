@@ -26,10 +26,6 @@ You will find the IP on `internalipaddress` param.
 
 4. You should see a username value like `1028d66426293e821ecfd9ef1a0731df`. <br>Copy this to the `.env` file.
 
-<br>
-<br>
-
-
 | param |value |
 |-----|----|
 | URL| /api |
