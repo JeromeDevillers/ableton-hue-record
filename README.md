@@ -35,8 +35,9 @@ You will find the IP on `internalipaddress` param.
 ## Dependencies
 | Name | URL |
 |-------|-----|
-| dotenv | https://www.npmjs.com/package/dotenv |  
-| ableton-push2 | https://www.npmjs.com/package/ableton-push2 |
+| Dotenv | https://www.npmjs.com/package/dotenv |  
+| Axios | https://www.npmjs.com/package/axios |
+| Ableton-push2 | https://www.npmjs.com/package/ableton-push2 |
 
 
 ## 👥 Contributing
