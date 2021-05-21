@@ -17,7 +17,7 @@ HUE_BRIDGE_IP=
 HUE_USERNAME=
 HUE_LIGHT_ID=
 ```
-1. First you need to find your **Philips Hue Bridge IP**. For that you can use this url https://discovery.meethue.com/. <br>
+1. First you need to find your **Philips Hue Bridge IP**.<br> For that you can use this url https://discovery.meethue.com/. <br>
 You will find the IP on `internalipaddress` param.
 
 2. Press the link button on the bridge.
