@@ -4,7 +4,7 @@ Set Philips Hue color to red when you recording with your Ableton Push 2.
 
 ***Note:** I <u>don't</u> experience latency but because we use wifi communication you maybe experience some depending of your connection.*
 ## 🖼️ Preview
-[TO DO]
+![ableton-hue-record_1](https://user-images.githubusercontent.com/4960853/119739723-a469f280-be50-11eb-8b85-02ed11954120.gif)
 
 ## 🛠️ Installation
 
